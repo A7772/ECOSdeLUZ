@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 25f93c82f4b704748a6c2ac498fa806f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1393862018707301148
+    second: Rompecabezas01_Trampilla_0
+  - first:
+      213: -2959362978515836495
+    second: Rompecabezas01_Trampilla_1
+  - first:
+      213: 2619990179219339579
+    second: Rompecabezas01_Trampilla_2
+  - first:
+      213: -7426010202070667257
+    second: Rompecabezas01_Trampilla_3
+  - first:
+      213: 626516167080021886
+    second: Rompecabezas01_Trampilla_4
+  - first:
+      213: 3458785428823492845
+    second: Rompecabezas01_Trampilla_5
+  - first:
+      213: -8087486098984422277
+    second: Rompecabezas01_Trampilla_6
+  - first:
+      213: 4023501750823222528
+    second: Rompecabezas01_Trampilla_7
+  - first:
+      213: -6474924093328251175
+    second: Rompecabezas01_Trampilla_8
+  - first:
+      213: 6247644605426013885
+    second: Rompecabezas01_Trampilla_9
+  - first:
+      213: -5862040685503909142
+    second: Rompecabezas01_Trampilla_10
+  - first:
+      213: 8690695261791092720
+    second: Rompecabezas01_Trampilla_11
+  - first:
+      213: -5827747173895490895
+    second: Rompecabezas01_Trampilla_12
+  - first:
+      213: -3988295550230237995
+    second: Rompecabezas01_Trampilla_13
+  - first:
+      213: -767889043945341062
+    second: Rompecabezas01_Trampilla_14
+  - first:
+      213: 131724694565861821
+    second: Rompecabezas01_Trampilla_15
+  - first:
+      213: 6803481719534038799
+    second: Rompecabezas01_Trampilla_16
+  - first:
+      213: 1413574501050509
+    second: Rompecabezas01_Trampilla_17
+  - first:
+      213: -567838200370854488
+    second: Rompecabezas01_Trampilla_18
+  - first:
+      213: -7280958479624013724
+    second: Rompecabezas01_Trampilla_19
+  - first:
+      213: -6030792318348541149
+    second: Rompecabezas01_Trampilla_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_0
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2450
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecda0501e108ace0800000000000000
+      internalID: -1393862018707301148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_1
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2457
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12f18ec0b3ee6d0800000000000000
+      internalID: -2959362978515836495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_2
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2438
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39716bcf231c5420800000000000000
+      internalID: 2619990179219339579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_3
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2444
+        width: 90
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700b62fd01381f890800000000000000
+      internalID: -7426010202070667257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_4
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 2453
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f08d07225d1b800800000000000000
+      internalID: 626516167080021886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_5
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2431
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de84257a503100030800000000000000
+      internalID: 3458785428823492845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_6
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2428
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74bf180e3a73cf80800000000000000
+      internalID: -8087486098984422277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_7
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2430
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dfaf2668956d730800000000000000
+      internalID: 4023501750823222528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_8
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2431
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d62d8db7d27426a0800000000000000
+      internalID: -6474924093328251175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_9
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2435
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db69d4dcaa714b650800000000000000
+      internalID: 6247644605426013885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_10
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1746
+        width: 466
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2f6a11e09d5aea0800000000000000
+      internalID: -5862040685503909142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_11
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 1807
+        width: 410
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff7a3a9b4d8b9870800000000000000
+      internalID: 8690695261791092720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_12
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 252
+        width: 92
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b23c2372deaf1fa0800000000000000
+      internalID: -5827747173895490895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_13
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 174
+        width: 468
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc6145f35ab6a8c0800000000000000
+      internalID: -3988295550230237995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_14
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 342
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f39b4abf8e755f0800000000000000
+      internalID: -767889043945341062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_15
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 297
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9bebb69eaf3d100800000000000000
+      internalID: 131724694565861821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_16
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 209
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa0b8d392da6e50800000000000000
+      internalID: 6803481719534038799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_17
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 200
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88aff573a5050000800000000000000
+      internalID: 1413574501050509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_18
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 158
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a58ff05a22ae18f0800000000000000
+      internalID: -567838200370854488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 90
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46874a5c6d6d4fa90800000000000000
+      internalID: -7280958479624013724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rompecabezas01_Trampilla_20
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 102
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3234ea6c6525e4ca0800000000000000
+      internalID: -6030792318348541149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rompecabezas01_Trampilla_0: -1393862018707301148
+      Rompecabezas01_Trampilla_1: -2959362978515836495
+      Rompecabezas01_Trampilla_10: -5862040685503909142
+      Rompecabezas01_Trampilla_11: 8690695261791092720
+      Rompecabezas01_Trampilla_12: -5827747173895490895
+      Rompecabezas01_Trampilla_13: -3988295550230237995
+      Rompecabezas01_Trampilla_14: -767889043945341062
+      Rompecabezas01_Trampilla_15: 131724694565861821
+      Rompecabezas01_Trampilla_16: 6803481719534038799
+      Rompecabezas01_Trampilla_17: 1413574501050509
+      Rompecabezas01_Trampilla_18: -567838200370854488
+      Rompecabezas01_Trampilla_19: -7280958479624013724
+      Rompecabezas01_Trampilla_2: 2619990179219339579
+      Rompecabezas01_Trampilla_20: -6030792318348541149
+      Rompecabezas01_Trampilla_3: -7426010202070667257
+      Rompecabezas01_Trampilla_4: 626516167080021886
+      Rompecabezas01_Trampilla_5: 3458785428823492845
+      Rompecabezas01_Trampilla_6: -8087486098984422277
+      Rompecabezas01_Trampilla_7: 4023501750823222528
+      Rompecabezas01_Trampilla_8: -6474924093328251175
+      Rompecabezas01_Trampilla_9: 6247644605426013885
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

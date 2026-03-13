@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 8ebf1da0c8f33a7438a3219252c618fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2611630639236822132
+    second: CerraduraPuerta_Rompecabezas01_0
+  - first:
+      213: -976427858763694497
+    second: CerraduraPuerta_Rompecabezas01_1
+  - first:
+      213: -7969602730030543601
+    second: CerraduraPuerta_Rompecabezas01_2
+  - first:
+      213: 8170494142369649731
+    second: CerraduraPuerta_Rompecabezas01_3
+  - first:
+      213: 4526593641458291847
+    second: CerraduraPuerta_Rompecabezas01_4
+  - first:
+      213: -2736005713334870660
+    second: CerraduraPuerta_Rompecabezas01_5
+  - first:
+      213: -4904421024030757420
+    second: CerraduraPuerta_Rompecabezas01_6
+  - first:
+      213: -1729583101874996592
+    second: CerraduraPuerta_Rompecabezas01_7
+  - first:
+      213: 2060535314095923244
+    second: CerraduraPuerta_Rompecabezas01_8
+  - first:
+      213: 9111378034176528325
+    second: CerraduraPuerta_Rompecabezas01_9
+  - first:
+      213: -1919410628310287932
+    second: CerraduraPuerta_Rompecabezas01_10
+  - first:
+      213: 4111862375451393435
+    second: CerraduraPuerta_Rompecabezas01_11
+  - first:
+      213: -7930571602957625885
+    second: CerraduraPuerta_Rompecabezas01_12
+  - first:
+      213: -6479055731117579981
+    second: CerraduraPuerta_Rompecabezas01_13
+  - first:
+      213: 641157637153830044
+    second: CerraduraPuerta_Rompecabezas01_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3310
+        width: 328
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474bc38ba306e3420800000000000000
+      internalID: 2611630639236822132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_1
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3310
+        width: 328
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e389929080372f0800000000000000
+      internalID: -976427858763694497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_2
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 3347
+        width: 268
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dcb83ba88466190800000000000000
+      internalID: -7969602730030543601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 3293
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3445a53222d636170800000000000000
+      internalID: 8170494142369649731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3299
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784d9a91fe0b1de30800000000000000
+      internalID: 4526593641458291847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_5
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 3293
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d5c39bc41c70ad0800000000000000
+      internalID: -2736005713334870660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_6
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 3299
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd60b9301fffebb0800000000000000
+      internalID: -4904421024030757420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1617
+        width: 152
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09af83325594ff7e0800000000000000
+      internalID: -1729583101874996592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1725
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20e5d373fd789c10800000000000000
+      internalID: 2060535314095923244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_9
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1262
+        width: 328
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf83654c0e127e70800000000000000
+      internalID: 9111378034176528325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1519
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b479f332ec55e0800000000000000
+      internalID: -1919410628310287932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1409
+        width: 142
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df21e7b05401930800000000000000
+      internalID: 4111862375451393435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1314
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e519e32523f0f190800000000000000
+      internalID: -7930571602957625885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_13
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1245
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33127cad325c516a0800000000000000
+      internalID: -6479055731117579981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerraduraPuerta_Rompecabezas01_14
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9435975979d5e800800000000000000
+      internalID: 641157637153830044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CerraduraPuerta_Rompecabezas01_0: 2611630639236822132
+      CerraduraPuerta_Rompecabezas01_1: -976427858763694497
+      CerraduraPuerta_Rompecabezas01_10: -1919410628310287932
+      CerraduraPuerta_Rompecabezas01_11: 4111862375451393435
+      CerraduraPuerta_Rompecabezas01_12: -7930571602957625885
+      CerraduraPuerta_Rompecabezas01_13: -6479055731117579981
+      CerraduraPuerta_Rompecabezas01_14: 641157637153830044
+      CerraduraPuerta_Rompecabezas01_2: -7969602730030543601
+      CerraduraPuerta_Rompecabezas01_3: 8170494142369649731
+      CerraduraPuerta_Rompecabezas01_4: 4526593641458291847
+      CerraduraPuerta_Rompecabezas01_5: -2736005713334870660
+      CerraduraPuerta_Rompecabezas01_6: -4904421024030757420
+      CerraduraPuerta_Rompecabezas01_7: -1729583101874996592
+      CerraduraPuerta_Rompecabezas01_8: 2060535314095923244
+      CerraduraPuerta_Rompecabezas01_9: 9111378034176528325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

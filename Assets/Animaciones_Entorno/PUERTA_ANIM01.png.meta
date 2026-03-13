@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 96ea11e94059f0443822b3d932217fd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 825821262261055585
+    second: PUERTA_ANIM01_0
+  - first:
+      213: 1626565687594226065
+    second: PUERTA_ANIM01_1
+  - first:
+      213: -4734297331827532796
+    second: PUERTA_ANIM01_2
+  - first:
+      213: -5764314824357988886
+    second: PUERTA_ANIM01_3
+  - first:
+      213: 5848330816890787073
+    second: PUERTA_ANIM01_4
+  - first:
+      213: -3003193331068281063
+    second: PUERTA_ANIM01_5
+  - first:
+      213: 5995672188517663475
+    second: PUERTA_ANIM01_6
+  - first:
+      213: 5488695584346994093
+    second: PUERTA_ANIM01_7
+  - first:
+      213: -6759717104357604357
+    second: PUERTA_ANIM01_8
+  - first:
+      213: -8118488069233272022
+    second: PUERTA_ANIM01_9
+  - first:
+      213: -862099645555665551
+    second: PUERTA_ANIM01_10
+  - first:
+      213: 199488350301945013
+    second: PUERTA_ANIM01_11
+  - first:
+      213: 5289363972264084491
+    second: PUERTA_ANIM01_12
+  - first:
+      213: -6051343014893770732
+    second: PUERTA_ANIM01_13
+  - first:
+      213: -4990953476929197006
+    second: PUERTA_ANIM01_14
+  - first:
+      213: 2232309431233297424
+    second: PUERTA_ANIM01_15
+  - first:
+      213: -512395503233650128
+    second: PUERTA_ANIM01_16
+  - first:
+      213: -8637670228878364216
+    second: PUERTA_ANIM01_17
+  - first:
+      213: -6824193569590395528
+    second: PUERTA_ANIM01_18
+  - first:
+      213: 8380154076618598506
+    second: PUERTA_ANIM01_19
+  - first:
+      213: -3900724257422108160
+    second: PUERTA_ANIM01_20
+  - first:
+      213: 2501691838264608173
+    second: PUERTA_ANIM01_21
+  - first:
+      213: -9107568132473213927
+    second: PUERTA_ANIM01_22
+  - first:
+      213: 5047833409100688660
+    second: PUERTA_ANIM01_23
+  - first:
+      213: -7669521337582855070
+    second: PUERTA_ANIM01_24
+  - first:
+      213: 8345995322726104536
+    second: PUERTA_ANIM01_25
+  - first:
+      213: 888367576876670137
+    second: PUERTA_ANIM01_26
+  - first:
+      213: -6528494306166734137
+    second: PUERTA_ANIM01_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_0
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 6785
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160f8090018e57b00800000000000000
+      internalID: 825821262261055585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_1
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 6790
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19194ecffd8b29610800000000000000
+      internalID: 1626565687594226065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_2
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 6092
+        width: 295
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c175bf8a56c4eb0800000000000000
+      internalID: -4734297331827532796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_3
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 6786
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5bf98353a0100b0800000000000000
+      internalID: -5764314824357988886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_4
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 6100
+        width: 332
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105deb564e1792150800000000000000
+      internalID: 5848330816890787073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_5
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 6792
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f5ad5b3938256d0800000000000000
+      internalID: -3003193331068281063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_6
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 6793
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2c84ac618e43350800000000000000
+      internalID: 5995672188517663475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_7
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 6795
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5f149bd83cb2c40800000000000000
+      internalID: 5488695584346994093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_8
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 6793
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf302acab19a032a0800000000000000
+      internalID: -6759717104357604357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_9
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 6794
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b9a185d16555f80800000000000000
+      internalID: -8118488069233272022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6090
+        width: 228
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751aa1a0f43904f0800000000000000
+      internalID: -862099645555665551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 6766
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc73900999b4c200800000000000000
+      internalID: 199488350301945013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_12
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 6774
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04cc8e2288976940800000000000000
+      internalID: 5289363972264084491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_13
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 6775
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418273fd69f450ca0800000000000000
+      internalID: -6051343014893770732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_14
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 6728
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c622581429cbab0800000000000000
+      internalID: -4990953476929197006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_15
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 6725
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c3a65b991cafe10800000000000000
+      internalID: 2232309431233297424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_16
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 6097
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032304d210b93e8f0800000000000000
+      internalID: -512395503233650128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_17
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 6096
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1fcb0f0b4d02880800000000000000
+      internalID: -8637670228878364216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_18
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 6095
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d3f06ca189b41a0800000000000000
+      internalID: -6824193569590395528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_19
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 6095
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68a4e39bb94c4470800000000000000
+      internalID: 8380154076618598506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_20
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 6090
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a1b9d64f7ddd9c0800000000000000
+      internalID: -3900724257422108160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3423
+        width: 219
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5814de87bc7b220800000000000000
+      internalID: 2501691838264608173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 4076
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c2448990b6b9180800000000000000
+      internalID: -9107568132473213927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_23
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3392
+        width: 218
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dabc2bdb18d0640800000000000000
+      internalID: 5047833409100688660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_24
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 4088
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c58147af2609590800000000000000
+      internalID: -7669521337582855070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_25
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 3352
+        width: 318
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd392ce68ee2d370800000000000000
+      internalID: 8345995322726104536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 802
+        width: 437
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc55b9ba9d145c00800000000000000
+      internalID: 888367576876670137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUERTA_ANIM01_27
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 802
+        width: 463
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c285ca94012665a0800000000000000
+      internalID: -6528494306166734137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PUERTA_ANIM01_0: 825821262261055585
+      PUERTA_ANIM01_1: 1626565687594226065
+      PUERTA_ANIM01_10: -862099645555665551
+      PUERTA_ANIM01_11: 199488350301945013
+      PUERTA_ANIM01_12: 5289363972264084491
+      PUERTA_ANIM01_13: -6051343014893770732
+      PUERTA_ANIM01_14: -4990953476929197006
+      PUERTA_ANIM01_15: 2232309431233297424
+      PUERTA_ANIM01_16: -512395503233650128
+      PUERTA_ANIM01_17: -8637670228878364216
+      PUERTA_ANIM01_18: -6824193569590395528
+      PUERTA_ANIM01_19: 8380154076618598506
+      PUERTA_ANIM01_2: -4734297331827532796
+      PUERTA_ANIM01_20: -3900724257422108160
+      PUERTA_ANIM01_21: 2501691838264608173
+      PUERTA_ANIM01_22: -9107568132473213927
+      PUERTA_ANIM01_23: 5047833409100688660
+      PUERTA_ANIM01_24: -7669521337582855070
+      PUERTA_ANIM01_25: 8345995322726104536
+      PUERTA_ANIM01_26: 888367576876670137
+      PUERTA_ANIM01_27: -6528494306166734137
+      PUERTA_ANIM01_3: -5764314824357988886
+      PUERTA_ANIM01_4: 5848330816890787073
+      PUERTA_ANIM01_5: -3003193331068281063
+      PUERTA_ANIM01_6: 5995672188517663475
+      PUERTA_ANIM01_7: 5488695584346994093
+      PUERTA_ANIM01_8: -6759717104357604357
+      PUERTA_ANIM01_9: -8118488069233272022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

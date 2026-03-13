@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: e2a6ed3eee540e54688b7ebae445ce1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1194417037082496447
+    second: Objetos01_0
+  - first:
+      213: -6647608432350683396
+    second: Objetos01_1
+  - first:
+      213: -7472101782481561402
+    second: Objetos01_2
+  - first:
+      213: 1324088829226041972
+    second: Objetos01_3
+  - first:
+      213: -1909383414957289816
+    second: Objetos01_4
+  - first:
+      213: 214002555564668260
+    second: Objetos01_5
+  - first:
+      213: -1918745771929035662
+    second: Objetos01_6
+  - first:
+      213: -5273085240781102644
+    second: Objetos01_7
+  - first:
+      213: 6402731670773792902
+    second: Objetos01_8
+  - first:
+      213: -5901308691700560013
+    second: Objetos01_9
+  - first:
+      213: 8682403542055015811
+    second: Objetos01_10
+  - first:
+      213: -1353577811306448026
+    second: Objetos01_11
+  - first:
+      213: 2250271995566383308
+    second: Objetos01_12
+  - first:
+      213: 8063524175982917420
+    second: Objetos01_13
+  - first:
+      213: -6297607993888586467
+    second: Objetos01_14
+  - first:
+      213: 7028566232117626837
+    second: Objetos01_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Objetos01_0
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1736
+        width: 134
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f50778049c6fe0800000000000000
+      internalID: -1194417037082496447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_1
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1811
+        width: 183
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe98dfe953feb3a0800000000000000
+      internalID: -6647608432350683396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_2
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 1996
+        width: 831
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c89f998403cd4890800000000000000
+      internalID: -7472101782481561402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_3
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 794
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472c41d56cb106210800000000000000
+      internalID: 1324088829226041972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_4
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 627
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aec27386e18085e0800000000000000
+      internalID: -1909383414957289816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_5
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 622
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4653571c03a48f200800000000000000
+      internalID: 214002555564668260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_6
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 581
+        width: 263
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c13e9e2ee3f55e0800000000000000
+      internalID: -1918745771929035662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_7
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 605
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc123e859ec32d6b0800000000000000
+      internalID: -5273085240781102644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_8
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 599
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6808d9c08821bd850800000000000000
+      internalID: 6402731670773792902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_9
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 240
+        width: 622
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f4349e2075a1ea0800000000000000
+      internalID: -5901308691700560013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_10
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 228
+        width: 614
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38558c825081e7870800000000000000
+      internalID: 8682403542055015811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_11
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 134
+        width: 758
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b7a35f620273de0800000000000000
+      internalID: -1353577811306448026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_12
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 574
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc06ebf15729a3f10800000000000000
+      internalID: 2250271995566383308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_13
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 577
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c277c33048467ef60800000000000000
+      internalID: 8063524175982917420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_14
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 572
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d154c9d45e66a98a0800000000000000
+      internalID: -6297607993888586467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos01_15
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 556
+        width: 76
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d74da9cfbb7a8160800000000000000
+      internalID: 7028566232117626837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Objetos01_0: -1194417037082496447
+      Objetos01_1: -6647608432350683396
+      Objetos01_10: 8682403542055015811
+      Objetos01_11: -1353577811306448026
+      Objetos01_12: 2250271995566383308
+      Objetos01_13: 8063524175982917420
+      Objetos01_14: -6297607993888586467
+      Objetos01_15: 7028566232117626837
+      Objetos01_2: -7472101782481561402
+      Objetos01_3: 1324088829226041972
+      Objetos01_4: -1909383414957289816
+      Objetos01_5: 214002555564668260
+      Objetos01_6: -1918745771929035662
+      Objetos01_7: -5273085240781102644
+      Objetos01_8: 6402731670773792902
+      Objetos01_9: -5901308691700560013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

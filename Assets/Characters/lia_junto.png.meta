@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: c4704c60d96944749bcc12e33a68c9d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1801279218938955364
+    second: lia_junto_0
+  - first:
+      213: -6441999172584670065
+    second: lia_junto_1
+  - first:
+      213: -7562994551211787299
+    second: lia_junto_2
+  - first:
+      213: -806704265175580421
+    second: lia_junto_3
+  - first:
+      213: 3532364034970021243
+    second: lia_junto_4
+  - first:
+      213: -1996770277883327271
+    second: lia_junto_5
+  - first:
+      213: 7974578657837452553
+    second: lia_junto_6
+  - first:
+      213: 3333223615365230029
+    second: lia_junto_7
+  - first:
+      213: -4111353784464666309
+    second: lia_junto_8
+  - first:
+      213: -770900637864886188
+    second: lia_junto_9
+  - first:
+      213: -7444375823975406397
+    second: lia_junto_10
+  - first:
+      213: 6781126053265335063
+    second: lia_junto_11
+  - first:
+      213: -7934784245632493515
+    second: lia_junto_12
+  - first:
+      213: 4125601705291312541
+    second: lia_junto_13
+  - first:
+      213: -3118775306738450821
+    second: lia_junto_14
+  - first:
+      213: -8698548865017077217
+    second: lia_junto_15
+  - first:
+      213: -397304786911881072
+    second: lia_junto_16
+  - first:
+      213: 4507949062800906833
+    second: lia_junto_17
+  - first:
+      213: 3016898276858516925
+    second: lia_junto_18
+  - first:
+      213: 2848016504684868144
+    second: lia_junto_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lia_junto_0
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 6220
+        width: 120
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99b9dd08129007e0800000000000000
+      internalID: -1801279218938955364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_1
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 6283
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cfaba32eb6996a0800000000000000
+      internalID: -6441999172584670065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_2
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 6286
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb7ec0b688da0790800000000000000
+      internalID: -7562994551211787299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_3
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 6286
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0ca63beb20ec4f0800000000000000
+      internalID: -806704265175580421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_4
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 6079
+        width: 207
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7de0c1ef5a750130800000000000000
+      internalID: 3532364034970021243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_5
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 6161
+        width: 58
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcc4b8f20c0a44e0800000000000000
+      internalID: -1996770277883327271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 4458
+        width: 224
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d00d5c9056bae60800000000000000
+      internalID: 7974578657837452553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_7
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 4272
+        width: 128
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcda9cec73df14e20800000000000000
+      internalID: 3333223615365230029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_8
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 4099
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b319603148981f6c0800000000000000
+      internalID: -4111353784464666309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_9
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 4160
+        width: 68
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45001fa44f53d45f0800000000000000
+      internalID: -770900637864886188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_10
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 4135
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4a07d41a340b890800000000000000
+      internalID: -7444375823975406397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2485
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e60ea7366b1e50800000000000000
+      internalID: 6781126053265335063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_12
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2570
+        width: 114
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53895b5d4cbf1e190800000000000000
+      internalID: -7934784245632493515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_13
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 2566
+        width: 142
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d62a084e4114930800000000000000
+      internalID: 4125601705291312541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_14
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 2626
+        width: 124
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e389be162e7b4d0800000000000000
+      internalID: -3118775306738450821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_15
+      rect:
+        serializedVersion: 2
+        x: 5804
+        y: 2611
+        width: 124
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12a747e4eb884780800000000000000
+      internalID: -8698548865017077217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1052
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0981e8cb66d7c7af0800000000000000
+      internalID: -397304786911881072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_17
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 889
+        width: 130
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a9dc9d9c37f8e30800000000000000
+      internalID: 4507949062800906833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_18
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 333
+        width: 356
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5d3a3affc2ed920800000000000000
+      internalID: 3016898276858516925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lia_junto_19
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 332
+        width: 273
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032f03cebef268720800000000000000
+      internalID: 2848016504684868144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lia_junto_0: -1801279218938955364
+      lia_junto_1: -6441999172584670065
+      lia_junto_10: -7444375823975406397
+      lia_junto_11: 6781126053265335063
+      lia_junto_12: -7934784245632493515
+      lia_junto_13: 4125601705291312541
+      lia_junto_14: -3118775306738450821
+      lia_junto_15: -8698548865017077217
+      lia_junto_16: -397304786911881072
+      lia_junto_17: 4507949062800906833
+      lia_junto_18: 3016898276858516925
+      lia_junto_19: 2848016504684868144
+      lia_junto_2: -7562994551211787299
+      lia_junto_3: -806704265175580421
+      lia_junto_4: 3532364034970021243
+      lia_junto_5: -1996770277883327271
+      lia_junto_6: 7974578657837452553
+      lia_junto_7: 3333223615365230029
+      lia_junto_8: -4111353784464666309
+      lia_junto_9: -770900637864886188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 1e505aef0cdc38a43b3cc68b8a37200d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6284233109734092633
+    second: parasol_0
+  - first:
+      213: 8533212521959647075
+    second: parasol_1
+  - first:
+      213: -8795525722879773196
+    second: parasol_2
+  - first:
+      213: -9049003946491010685
+    second: parasol_3
+  - first:
+      213: 857228752952216792
+    second: parasol_4
+  - first:
+      213: -8141062834695730582
+    second: parasol_5
+  - first:
+      213: 8109165979861823864
+    second: parasol_6
+  - first:
+      213: 5240121042493594224
+    second: parasol_7
+  - first:
+      213: 589827495303412141
+    second: parasol_8
+  - first:
+      213: -5094871036273911532
+    second: parasol_9
+  - first:
+      213: 5007965192437391841
+    second: parasol_10
+  - first:
+      213: -7757230817748592555
+    second: parasol_11
+  - first:
+      213: -5557398459583332390
+    second: parasol_12
+  - first:
+      213: -5656870811214808939
+    second: parasol_13
+  - first:
+      213: -8074203578036201274
+    second: parasol_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parasol_0
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2005
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fe27fc7b4163750800000000000000
+      internalID: 6284233109734092633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2017
+        width: 261
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e15ce39f0c6670800000000000000
+      internalID: 8533212521959647075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2027
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b0faa4f300f580800000000000000
+      internalID: -8795525722879773196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2030
+        width: 79
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381ab46bada7b6280800000000000000
+      internalID: -9049003946491010685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2030
+        width: 55
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcc7fe420d75eb00800000000000000
+      internalID: 857228752952216792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_5
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 2028
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a83db2c72250f80800000000000000
+      internalID: -8141062834695730582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_6
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 2030
+        width: 151
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871b8569e7b898070800000000000000
+      internalID: 8109165979861823864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_7
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 2018
+        width: 255
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a51e52356a8b840800000000000000
+      internalID: 5240121042493594224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_8
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 2003
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da971506bfc7f2800800000000000000
+      internalID: 589827495303412141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1668
+        width: 584
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419977a49c16b49b0800000000000000
+      internalID: -5094871036273911532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_10
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 1658
+        width: 562
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e160c62fcddf7540800000000000000
+      internalID: 5007965192437391841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_11
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1756
+        width: 381
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558d16bbba7c85490800000000000000
+      internalID: -7757230817748592555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_12
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 1864
+        width: 67
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf7b3d9b8720e2b0800000000000000
+      internalID: -5557398459583332390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_13
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 1892
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598f345f7f1ce71b0800000000000000
+      internalID: -5656870811214808939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parasol_14
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 386
+        width: 276
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8d6feef9aa2ff80800000000000000
+      internalID: -8074203578036201274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      parasol_0: 6284233109734092633
+      parasol_1: 8533212521959647075
+      parasol_10: 5007965192437391841
+      parasol_11: -7757230817748592555
+      parasol_12: -5557398459583332390
+      parasol_13: -5656870811214808939
+      parasol_14: -8074203578036201274
+      parasol_2: -8795525722879773196
+      parasol_3: -9049003946491010685
+      parasol_4: 857228752952216792
+      parasol_5: -8141062834695730582
+      parasol_6: 8109165979861823864
+      parasol_7: 5240121042493594224
+      parasol_8: 589827495303412141
+      parasol_9: -5094871036273911532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

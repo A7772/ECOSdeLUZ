@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 4533f1518163876459abb5dd56bb56f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4847381048175117005
+    second: Interior_Coche_0
+  - first:
+      213: -8809809224773505797
+    second: Interior_Coche_1
+  - first:
+      213: 5390550812767908751
+    second: Interior_Coche_2
+  - first:
+      213: -5744032622012476006
+    second: Interior_Coche_3
+  - first:
+      213: -5876601655453422936
+    second: Interior_Coche_4
+  - first:
+      213: 6760688290993516566
+    second: Interior_Coche_5
+  - first:
+      213: -1856187309159943425
+    second: Interior_Coche_6
+  - first:
+      213: -6383986988761308073
+    second: Interior_Coche_7
+  - first:
+      213: 6120618431784167156
+    second: Interior_Coche_8
+  - first:
+      213: 3704242417880032226
+    second: Interior_Coche_9
+  - first:
+      213: 6611412687901390481
+    second: Interior_Coche_10
+  - first:
+      213: 8185107552242015187
+    second: Interior_Coche_11
+  - first:
+      213: 6749215770449209268
+    second: Interior_Coche_12
+  - first:
+      213: 5358307378900533285
+    second: Interior_Coche_13
+  - first:
+      213: 3516509234675951182
+    second: Interior_Coche_14
+  - first:
+      213: -7071929263024928828
+    second: Interior_Coche_15
+  - first:
+      213: -8699952586816799839
+    second: Interior_Coche_16
+  - first:
+      213: -2395444906388162164
+    second: Interior_Coche_17
+  - first:
+      213: -5720639562833629508
+    second: Interior_Coche_18
+  - first:
+      213: -5566899022527931454
+    second: Interior_Coche_19
+  - first:
+      213: 3368890597668083249
+    second: Interior_Coche_20
+  - first:
+      213: 6975539983919337235
+    second: Interior_Coche_21
+  - first:
+      213: 5244259401712493261
+    second: Interior_Coche_22
+  - first:
+      213: -5351859180886499831
+    second: Interior_Coche_23
+  - first:
+      213: 3753292803417054409
+    second: Interior_Coche_24
+  - first:
+      213: -5209880976723720577
+    second: Interior_Coche_25
+  - first:
+      213: -8322089143385021892
+    second: Interior_Coche_26
+  - first:
+      213: -1758952889377342667
+    second: Interior_Coche_27
+  - first:
+      213: 8494094375721866649
+    second: Interior_Coche_28
+  - first:
+      213: -2023313744816678372
+    second: Interior_Coche_29
+  - first:
+      213: -7933980179798441898
+    second: Interior_Coche_30
+  - first:
+      213: 1569579847894753812
+    second: Interior_Coche_31
+  - first:
+      213: 168577201208521943
+    second: Interior_Coche_32
+  - first:
+      213: -3502756842979794907
+    second: Interior_Coche_33
+  - first:
+      213: -7393583847061411838
+    second: Interior_Coche_34
+  - first:
+      213: 5996359149666683179
+    second: Interior_Coche_35
+  - first:
+      213: -7220768895144690063
+    second: Interior_Coche_36
+  - first:
+      213: 2832285730099963269
+    second: Interior_Coche_37
+  - first:
+      213: -2087783856069697954
+    second: Interior_Coche_38
+  - first:
+      213: 1702288428086407698
+    second: Interior_Coche_39
+  - first:
+      213: -8199956780567084451
+    second: Interior_Coche_40
+  - first:
+      213: 3449661657433775767
+    second: Interior_Coche_41
+  - first:
+      213: -9020178936813757049
+    second: Interior_Coche_42
+  - first:
+      213: 4339506386107726505
+    second: Interior_Coche_43
+  - first:
+      213: 1208710276372256411
+    second: Interior_Coche_44
+  - first:
+      213: -2357503410743460637
+    second: Interior_Coche_45
+  - first:
+      213: -8148405475844112702
+    second: Interior_Coche_46
+  - first:
+      213: 7600617218953553555
+    second: Interior_Coche_47
+  - first:
+      213: 6110479845676747663
+    second: Interior_Coche_48
+  - first:
+      213: 57395495043995042
+    second: Interior_Coche_49
+  - first:
+      213: -8630754963247638778
+    second: Interior_Coche_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Interior_Coche_0
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1693
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dbf848e94aabcb0800000000000000
+      internalID: -4847381048175117005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_1
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 1662
+        width: 69
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc6a6abf254db580800000000000000
+      internalID: -8809809224773505797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_2
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1606
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8379b267651fca40800000000000000
+      internalID: 5390550812767908751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_3
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1722
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95d0b273c81940b0800000000000000
+      internalID: -5744032622012476006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_4
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 1679
+        width: 8
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae9301eed127ea0800000000000000
+      internalID: -5876601655453422936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_5
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 1732
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610bfc55e2ac2dd50800000000000000
+      internalID: 6760688290993516566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_6
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 1367
+        width: 931
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2fee01a7f7d36e0800000000000000
+      internalID: -1856187309159943425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_7
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1387
+        width: 82
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754aa2458a58767a0800000000000000
+      internalID: -6383986988761308073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_8
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1706
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62438090ec0f450800000000000000
+      internalID: 6120618431784167156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_9
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1702
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e36ca76adc186330800000000000000
+      internalID: 3704242417880032226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_10
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1717
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1967fd59fc470cb50800000000000000
+      internalID: 6611412687901390481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_11
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 1704
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db90c3c3f7579170800000000000000
+      internalID: 8185107552242015187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_12
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1425
+        width: 980
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e61efbf70aad50800000000000000
+      internalID: 6749215770449209268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_13
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1610
+        width: 19
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52088bceb288c5a40800000000000000
+      internalID: 5358307378900533285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_14
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1688
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46ad3684862dc030800000000000000
+      internalID: 3516509234675951182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_15
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1700
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c785b0ddc57bdd90800000000000000
+      internalID: -7071929263024928828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_16
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 1689
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab3b04773f834780800000000000000
+      internalID: -8699952586816799839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1441
+        width: 954
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89f6bb9c8ba1ced0800000000000000
+      internalID: -2395444906388162164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1687
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe614970a43c90b0800000000000000
+      internalID: -5720639562833629508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_19
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1446
+        width: 460
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbd0cd65d66eb2b0800000000000000
+      internalID: -5566899022527931454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_20
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 1613
+        width: 108
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136d8214624b0ce20800000000000000
+      internalID: 3368890597668083249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1446
+        width: 414
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fcb0a48a81ec060800000000000000
+      internalID: 6975539983919337235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_22
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 1635
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2631df32a57c840800000000000000
+      internalID: 5244259401712493261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_23
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 1611
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ed85b2e606ab5b0800000000000000
+      internalID: -5351859180886499831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_24
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 1622
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc14bd3bef561430800000000000000
+      internalID: 3753292803417054409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_25
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1522
+        width: 16
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f764154dad8c2b7b0800000000000000
+      internalID: -5209880976723720577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 913
+        width: 182
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32a6633400028c80800000000000000
+      internalID: -8322089143385021892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_27
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 914
+        width: 191
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b340c9aa1f697e0800000000000000
+      internalID: -1758952889377342667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_28
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 934
+        width: 488
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9959b81c4d511e570800000000000000
+      internalID: 8494094375721866649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_29
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 970
+        width: 182
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a590b7edebbe3e0800000000000000
+      internalID: -2023313744816678372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_30
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 1206
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650cf100017d4e190800000000000000
+      internalID: -7933980179798441898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_31
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1149
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412e0604e8448c510800000000000000
+      internalID: 1569579847894753812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_32
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 941
+        width: 672
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d473434218e65200800000000000000
+      internalID: 168577201208521943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_33
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 814
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520ee9fa535b36fc0800000000000000
+      internalID: -3502756842979794907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_34
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 455
+        width: 476
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208a6daf9a6b46990800000000000000
+      internalID: -7393583847061411838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 489
+        width: 671
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29cb8560e8573350800000000000000
+      internalID: 5996359149666683179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_36
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 703
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef5b772fcaacb90800000000000000
+      internalID: -7220768895144690063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_37
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 499
+        width: 544
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585240d8ddc4e4720800000000000000
+      internalID: 2832285730099963269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_38
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 720
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e9b2bf4a3b603e0800000000000000
+      internalID: -2087783856069697954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_39
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 497
+        width: 654
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21239556e4ebf9710800000000000000
+      internalID: 1702288428086407698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_40
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 497
+        width: 654
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d524eb8d0c6e33e80800000000000000
+      internalID: -8199956780567084451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_41
+      rect:
+        serializedVersion: 2
+        x: 4819
+        y: 606
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e10a61009afdf20800000000000000
+      internalID: 3449661657433775767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_42
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 473
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d51c44c03e1d280800000000000000
+      internalID: -9020178936813757049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_43
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 473
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7d740116093c30800000000000000
+      internalID: 4339506386107726505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_44
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 463
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b965883a79336c010800000000000000
+      internalID: 1208710276372256411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_45
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 463
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec3dd57327784fd0800000000000000
+      internalID: -2357503410743460637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 261
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceb67e446c0bee80800000000000000
+      internalID: -8148405475844112702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 43
+        width: 542
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396a1714711da7960800000000000000
+      internalID: 7600617218953553555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_48
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 5
+        width: 402
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b0fb08b09ccc450800000000000000
+      internalID: 6110479845676747663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_49
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 106
+        width: 448
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a51ecd06e8ebc000800000000000000
+      internalID: 57395495043995042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior_Coche_50
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 75
+        width: 404
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6075f20b616693880800000000000000
+      internalID: -8630754963247638778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Interior_Coche_0: -4847381048175117005
+      Interior_Coche_1: -8809809224773505797
+      Interior_Coche_10: 6611412687901390481
+      Interior_Coche_11: 8185107552242015187
+      Interior_Coche_12: 6749215770449209268
+      Interior_Coche_13: 5358307378900533285
+      Interior_Coche_14: 3516509234675951182
+      Interior_Coche_15: -7071929263024928828
+      Interior_Coche_16: -8699952586816799839
+      Interior_Coche_17: -2395444906388162164
+      Interior_Coche_18: -5720639562833629508
+      Interior_Coche_19: -5566899022527931454
+      Interior_Coche_2: 5390550812767908751
+      Interior_Coche_20: 3368890597668083249
+      Interior_Coche_21: 6975539983919337235
+      Interior_Coche_22: 5244259401712493261
+      Interior_Coche_23: -5351859180886499831
+      Interior_Coche_24: 3753292803417054409
+      Interior_Coche_25: -5209880976723720577
+      Interior_Coche_26: -8322089143385021892
+      Interior_Coche_27: -1758952889377342667
+      Interior_Coche_28: 8494094375721866649
+      Interior_Coche_29: -2023313744816678372
+      Interior_Coche_3: -5744032622012476006
+      Interior_Coche_30: -7933980179798441898
+      Interior_Coche_31: 1569579847894753812
+      Interior_Coche_32: 168577201208521943
+      Interior_Coche_33: -3502756842979794907
+      Interior_Coche_34: -7393583847061411838
+      Interior_Coche_35: 5996359149666683179
+      Interior_Coche_36: -7220768895144690063
+      Interior_Coche_37: 2832285730099963269
+      Interior_Coche_38: -2087783856069697954
+      Interior_Coche_39: 1702288428086407698
+      Interior_Coche_4: -5876601655453422936
+      Interior_Coche_40: -8199956780567084451
+      Interior_Coche_41: 3449661657433775767
+      Interior_Coche_42: -9020178936813757049
+      Interior_Coche_43: 4339506386107726505
+      Interior_Coche_44: 1208710276372256411
+      Interior_Coche_45: -2357503410743460637
+      Interior_Coche_46: -8148405475844112702
+      Interior_Coche_47: 7600617218953553555
+      Interior_Coche_48: 6110479845676747663
+      Interior_Coche_49: 57395495043995042
+      Interior_Coche_5: 6760688290993516566
+      Interior_Coche_50: -8630754963247638778
+      Interior_Coche_6: -1856187309159943425
+      Interior_Coche_7: -6383986988761308073
+      Interior_Coche_8: 6120618431784167156
+      Interior_Coche_9: 3704242417880032226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
