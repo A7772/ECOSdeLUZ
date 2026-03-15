@@ -1,11 +1,11 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.3/staging' branch; Version is '6000.3.7f1 (696ec25a53d1) revision 6909634'; Using compiler version '194234433'; Build Type 'Release'
 OS: 'Windows 11  (10.0.26200) Core' Language: 'es' Physical Memory: 32373 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-34630" at "2026-03-14T21:00:51.0360747Z"
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
 System  architecture: x64
 Process architecture: x64
-Date: 2026-03-13T14:19:56Z
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-34630" at "2026-03-13T14:19:56.9679522Z"
+Date: 2026-03-14T21:00:51Z
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.3.7f1\Editor\Unity.exe
@@ -19,7 +19,7 @@ C:/GITHUB_PROYECTOS/ECOS_DE_LUZ/ECOSdeLUZ
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62912
+59521
 -licensingIpc
 LicenseClient-34630
 -job-worker-count
@@ -67,12 +67,12 @@ C:/GITHUB_PROYECTOS/ECOS_DE_LUZ/ECOSdeLUZ
     "memorysetup-job-temp-allocator-block-size-background=1048576"
     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
     "memorysetup-temp-allocator-size-cloud-worker=32768"
-Player connection [33008]  Target information:
+Player connection [30768]  Target information:
 
-Player connection [33008]  * "[IP] 172.20.10.3 [Port] 0 [Flags] 2 [Guid] 3119047371 [EditorId] 3119047371 [Version] 1048832 [Id] WindowsEditor(7,Aitana) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [30768]  * "[IP] 172.20.10.3 [Port] 0 [Flags] 2 [Guid] 1062321316 [EditorId] 1062321316 [Version] 1048832 [Id] WindowsEditor(7,Aitana) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [33008] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [33008] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [30768] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [30768] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 10
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -84,7 +84,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 2.56 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 2.61 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.3.7f1 (696ec25a53d1)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Resources/UnitySubsystems
@@ -100,63 +100,63 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
-Begin MonoManager ReloadAssembly
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56480
 [Licensing::Client] Error: HandshakeResponse reported an error:
 	ResponseCode: 505
 	ResponseStatus: Unsupported protocol version '1.17.4'.
 [Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-34630"
 [Licensing::IpcConnector] LicenseClient-34630 channel disconnected successfully.
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-34630-6000.3.7" at "2026-03-13T14:19:57.7277007Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-34630-6000.3.7" at "2026-03-14T21:00:51.729134Z"
+Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002181 seconds.
-- Loaded All Assemblies, in  0.363 seconds
+Registered in 0.001402 seconds.
+- Loaded All Assemblies, in  0.338 seconds
 Native extension for WindowsStandalone target not found
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.388 seconds
-Domain Reload Profiling: 750ms
-	BeginReloadAssembly (122ms)
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              0c72da7c259b455ca6a39a78e1fdbf86
+  Correlation Id:          91ed1bd3aa5c0e2b8a1ae40fdedeeb5b
+  External correlation Id: 1742634924364424306
+  Machine Id:              C4P4OEdZzBHUYvfNXQRDYxuZ3tY=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-34630-6000.3.7" (connect: 0.00s, validation: 0.00s, handshake: 0.72s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-34630-6000.3.7-notifications" at "2026-03-14T21:00:52.453023Z"
+[Licensing::Module] Licensing Background thread has ended after 1.42s
+- Finished resetting the current domain, in  0.374 seconds
+Domain Reload Profiling: 711ms
+	BeginReloadAssembly (105ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (32ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (42ms)
-	LoadAllAssembliesAndSetupDomain (155ms)
-		LoadAssemblies (119ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (148ms)
+		LoadAssemblies (103ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (152ms)
-			TypeCache.Refresh (150ms)
-				TypeCache.ScanAssembly (138ms)
+		AnalyzeDomain (145ms)
+			TypeCache.Refresh (144ms)
+				TypeCache.ScanAssembly (132ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (388ms)
+	FinalizeReload (374ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (356ms)
+		SetupLoadedEditorAssemblies (333ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (42ms)
-			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (81ms)
-			ProcessInitializeOnLoadAttributes (158ms)
-			ProcessInitializeOnLoadMethodAttributes (71ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (151ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
-[Licensing::Client] Handshaking with LicensingClient:
-  Version:                 1.17.4+4293ba1
-  Session Id:              5f9b2965ddcc44e7b4d601bfe0ad0e95
-  Correlation Id:          e3bb7a9e1243c1e0c998e15702f401aa
-  External correlation Id: 8572560129560010565
-  Machine Id:              C4P4OEdZzBHUYvfNXQRDYxuZ3tY=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-34630-6000.3.7" (connect: 0.00s, validation: 0.00s, handshake: 0.76s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-34630-6000.3.7-notifications" at "2026-03-13T14:19:58.4858275Z"
-[Licensing::Module] Licensing Background thread has ended after 1.52s
 ========================================================================
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
@@ -167,8 +167,8 @@ Begin MonoManager ReloadAssembly
   Product: Unity Personal
   Type: Assigned
   Expiration: Unlimited
-- Loaded All Assemblies, in  0.694 seconds
-Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
+- Loaded All Assemblies, in  0.596 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -179,52 +179,100 @@ Missing types referenced from component UniversalRenderPipelineGlobalSettings on
 	UnityEngine.Rendering.Universal.URPTerrainShaderSetting, Unity.RenderPipelines.Universal.Runtime (1 object)
 	UnityEngine.Rendering.Universal.UniversalRenderPipelineRuntimeTerrainShaders, Unity.RenderPipelines.Universal.Runtime (1 object)
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.715 seconds
-Domain Reload Profiling: 1406ms
-	BeginReloadAssembly (152ms)
+- Finished resetting the current domain, in  0.680 seconds
+Domain Reload Profiling: 1274ms
+	BeginReloadAssembly (139ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (5ms)
+		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (30ms)
-	RebuildCommonClasses (28ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (25ms)
 	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (32ms)
-	LoadAllAssembliesAndSetupDomain (469ms)
-		LoadAssemblies (311ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (393ms)
+		LoadAssemblies (267ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (237ms)
-			TypeCache.Refresh (162ms)
-				TypeCache.ScanAssembly (149ms)
-			BuildScriptInfoCaches (61ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (716ms)
+		AnalyzeDomain (197ms)
+			TypeCache.Refresh (130ms)
+				TypeCache.ScanAssembly (119ms)
+			BuildScriptInfoCaches (54ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (680ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (591ms)
+		SetupLoadedEditorAssemblies (564ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (120ms)
-			ProcessInitializeOnLoadAttributes (326ms)
-			ProcessInitializeOnLoadMethodAttributes (137ms)
+			InitializePlatformSupportModulesInManaged (1ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (108ms)
+			ProcessInitializeOnLoadAttributes (307ms)
+			ProcessInitializeOnLoadMethodAttributes (140ms)
 			AfterProcessingInitializeOnLoad (3ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 2.58 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 3.09 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6909 unused Assets / (4.8 MB). Loaded Objects now: 7726.
-Memory consumption went from 156.8 MB to 152.0 MB.
-Total: 18.971500 ms (FindLiveObjects: 1.579900 ms CreateObjectMapping: 2.175700 ms MarkObjects: 10.554500 ms  DeleteObjects: 4.659300 ms)
+Unloading 6909 unused Assets / (4.2 MB). Loaded Objects now: 7726.
+Memory consumption went from 155.0 MB to 150.8 MB.
+Total: 13.715200 ms (FindLiveObjects: 1.780300 ms CreateObjectMapping: 1.612800 ms MarkObjects: 7.441600 ms  DeleteObjects: 2.878100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 23348.521388 seconds.
+  Time since last request: 83842.110207 seconds.
   path: Assets/Scenes/ESCENA01_PORCHE.unity
-  artifactKey: Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/ESCENA01_PORCHE.unity using Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0465d9767a50c5216e6d04da4afdf4a') in 0.010302 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+  artifactKey: Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/ESCENA01_PORCHE.unity using Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3dfa34506c6bd65c5a109f1010104f3e') in 0.0684881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 372.087218 seconds.
+  path: Assets/Scenes/ESCENA01_PORCHE.unity
+  artifactKey: Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/ESCENA01_PORCHE.unity using Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '990aabb6ed27bf60a34254fab562a10d') in 0.0393637 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.629019 seconds.
+  path: Assets/Scenes/ESCENA01_PORCHE.unity
+  artifactKey: Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/ESCENA01_PORCHE.unity using Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '614f94adfd7f58b42ef034148a5c964a') in 0.0223471 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 284.554648 seconds.
+  path: Assets/Scenes/ESCENA01_PORCHE.unity
+  artifactKey: Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/ESCENA01_PORCHE.unity using Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e5d9bb90f9d5799848b513de0e38637e') in 0.0259533 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.744368 seconds.
+  path: Assets/Scenes/ESCENA01_PORCHE.unity
+  artifactKey: Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/ESCENA01_PORCHE.unity using Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '552ad739ea964e9b77486e12bc17a521') in 0.029673 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.471964 seconds.
+  path: Assets/Scenes/ESCENA01_PORCHE.unity
+  artifactKey: Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/ESCENA01_PORCHE.unity using Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7e161d66bb1ec8e1c2e331eba5007324') in 0.0347375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.204285 seconds.
+  path: Assets/Scenes/ESCENA01_PORCHE.unity
+  artifactKey: Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/ESCENA01_PORCHE.unity using Guid(633c37a98a4f7424b8e86712c7e83ea7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8b3d0cbc8f5e43eba823c1e8c604990e') in 0.0330699 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 

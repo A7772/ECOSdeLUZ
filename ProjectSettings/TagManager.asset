@@ -2,13 +2,13 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - character
   - Water
   - UI
   - 
@@ -20,7 +20,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - fondo
   - 
   - 
   - 
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: FONDO
+    uniqueID: 3609175949
+    locked: 0
+  - name: SUELO
+    uniqueID: 3857146567
+    locked: 0
+  - name: PERSONAJES
+    uniqueID: 2397046157
+    locked: 0
+  - name: INTERACTUABLES
+    uniqueID: 27120187
+    locked: 0
+  - name: FOREGROUND
+    uniqueID: 989397425
+    locked: 0
+  m_RenderingLayers:
+  - Default
